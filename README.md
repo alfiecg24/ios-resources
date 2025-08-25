@@ -186,9 +186,11 @@ My own doing:
 - Ian Beer - [An analysis of an in-the-wild iOS Safari WebContent to GPU Process exploit](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html)
 - DFSEC - [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
 - Mickey Jin - [xpcroleaccountd Root Privilege Escalation](https://jhftss.github.io/CVE-2023-42942-xpcroleaccountd-Root-Privilege-Escalation/)
-- Alfie CG - [Trigon: developing a deterministic kernel exploit for iOS](https://alfiecg.uk/2025/03/01/Trigon.html)
+- Alfie CG - [Trigon: developing a deterministic kernel exploit for iOS (part 1)](https://alfiecg.uk/2025/03/01/Trigon.html)
 - Alfie CG & opa334 - [The state of iOS jailbreaking in 2025](https://raw.githubusercontent.com/alfiecg24/Presentations/main/The%20State%20of%20iOS%20Jailbreaking%20in%202025.pdf)
 - Siguza - [tachy0n](https://blog.siguza.net/tachy0n/)
+- Alfie CG - [Trigon: exploiting coprocessors for fun and for profit (part 2)](https://alfiecg.uk/2025/07/16/Trigon.html)
+
 
 ## Other Lists
 
